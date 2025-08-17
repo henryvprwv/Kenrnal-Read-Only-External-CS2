@@ -3,7 +3,7 @@
 <h3>Usage:</h3>
 
 <li>Load km.sys with kdmapper and run um.exe when ingame (or just use the launcher)</li>
-<h2>VPK Pharsing:</h2>
+<h1>VPK Pharsing:</h1>
 <li>Run PhysExtractor.exe and move the maps folder to the main dir</li>
 <li>Ingame go to the misc tab and choose a map</li>
 

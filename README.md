@@ -12,7 +12,7 @@
 <h3>Tipps:</h3>
 <li>U can adjust the strength of the rcs if its not perfect from defaul</li>
 <ul>
-  <li>Turn on follow recoil ingame and the recoil crosshair in the cheat and change the strength untill they overlap</li>
+  <li>Turn on follow recoil ingame, the recoil crosshair in the cheat and change the strength untill they overlap</li>
 </ul>
 
 

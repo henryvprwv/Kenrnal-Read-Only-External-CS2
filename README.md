@@ -10,10 +10,13 @@
 <li>Ingame go to the misc tab and choose a map</li>
 
 <h3>Tipps:</h3>
-<li>U can adjust the strength of the rcs if its not perfect from defaul</li>
+<li>U can adjust the strength of the rcs if its not perfect from default</li>
 <ul>
   <li>Turn on follow recoil ingame, the recoil crosshair in the cheat and change the strength untill they overlap</li>
 </ul>
+<li>Ins to toggle the menu</li>
+<li>End to unload the cheat correctly</li> <br>
+I will share the source code in the near future
 
 <h3>Potential Additions:</h3>
 <li>Spectator List</li>

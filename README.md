@@ -3,6 +3,7 @@
 <h3>Usage:</h3>
 
 <li>Load km.sys with kdmapper and run um.exe when ingame (or just use the launcher)</li>
+<li>U need to have Nvidia Overlay running</li>
 
 <h3>VPK Pharsing:</h3>
 <li>Run PhysExtractor.exe and move the maps folder to the main dir</li>

@@ -7,7 +7,7 @@
 
 <h3>VPK Pharsing:</h3>
 <li>Run PhysExtractor.exe and move the maps folder to the main dir</li>
-<li>Ingame go to the misc tab and choose a map</li> <br>
+<li>Ingame go to the misc tab and choose a map</li>
 
 <h3>Tipps:</h3>
 <li>U can adjust the strength of the rcs if its not perfect from defaul</li>

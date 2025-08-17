@@ -18,6 +18,7 @@
 <h3>Potential Additions:</h3>
 <li>Spectator List</li>
 <li>Bomb Info</li>
+<li>Icons<li>
 <li>Other Overlay Options</li>
 
 <h3>Credits:</h3>

@@ -6,7 +6,7 @@
 <li>U need to have Nvidia Overlay running</li>
 
 <h3>VPK Pharsing:</h3>
-<li>Download the parser [here](https://www.unknowncheats.me/forum/counter-strike-2-a/707998-cs2-vmdl_c-parser.html)</li>
+<li>Download the parser [here](https://www.unknowncheats.me/forum/counter-strike-2-a/707998-cs2-vmdl_c-parser.html) </li>
 <li>Run PhysExtractor.exe, select .tri as file format and move the maps folder to the main dir</li>
 <li>Ingame go to the misc tab and choose a map</li>
 

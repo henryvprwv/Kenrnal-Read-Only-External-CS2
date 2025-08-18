@@ -27,4 +27,4 @@ I will share the source code (of the cheat only) in the near future
 
 <h3>Credits:</h3>
 
-Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calvin-LLC for the Nvidia Overlay Hijack](https://github.com/Calvin-LLC/nvidia-overlay-hijack), [laithiraq for the CS2 Physics Collision Mesh Parser](https://www.unknowncheats.me/forum/counter-strike-2-a/707998-cs2-vmdl_c-parser.html), [The Unknowncheats Community <3](https://www.unknowncheatme/forum/index.php)
+Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calvin-LLC for the Nvidia Overlay Hijack](https://github.com/Calvin-LLC/nvidia-overlay-hijack), [laithiraq for the Parser](https://www.unknowncheats.me/forum/counter-strike-2-a/707998-cs2-vmdl_c-parser.html), [The Unknowncheats Community <3](https://www.unknowncheatme/forum/index.php)

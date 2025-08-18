@@ -17,7 +17,7 @@
 </ul>
 <li>Ins to toggle the menu</li>
 <li>End to unload the cheat correctly</li> <br>
-I will share the source code in the near future
+I will share the source code (of the cheat only) in the near future
 
 <h3>Potential Additions:</h3>
 <li>Spectator List</li>

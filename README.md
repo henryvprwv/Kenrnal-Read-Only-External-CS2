@@ -19,6 +19,10 @@
 <li>End to unload the cheat correctly</li> <br>
 I will share the source code (of the cheat only) in the near future
 
+<h3>Additions / Fixes:</h3>
+<li>Fixed for latest game build</li>
+<li>Added Autostop</li>
+
 <h3>Potential Additions:</h3>
 <li>Spectator List</li>
 <li>Bomb Info</li>

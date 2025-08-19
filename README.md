@@ -41,4 +41,4 @@ Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calv
 <img width="718" height="551" alt="Screenshot 2025-08-19 174303" src="https://github.com/user-attachments/assets/74bd84d6-2bae-47d6-b5fd-e676b6ea0b86" />
 <img width="720" height="549" alt="Screenshot 2025-08-19 174328" src="https://github.com/user-attachments/assets/86a70207-6550-4b2e-845e-092d3524d965" />
 
-https://imgur.com/a/3gHq6mT
+[RCS:](https://imgur.com/a/3gHq6mT)

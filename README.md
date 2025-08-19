@@ -17,6 +17,7 @@
 </ul>
 <li>Ins to toggle the menu</li>
 <li>End to unload the cheat correctly</li> <br>
+<li>As long as the overlay fps is anywere around 60 fps ur fine, but higher ingame fps = smoother ESP</li>
 I will share the source code (of the cheat only) in the near future
 
 <h3>Recent additions / Fixes:</h3>

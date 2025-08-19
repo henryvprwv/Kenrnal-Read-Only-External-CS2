@@ -22,6 +22,7 @@ I will share the source code (of the cheat only) in the near future
 
 <h3>Recent Additions / Fixes:</h3>
 <li>Fixed for latest game build</li>
+<li>Fixed + Improved Triggerbot</li>
 <li>Added Autostop</li>
 
 <h3>Potential Additions:</h3>
@@ -37,8 +38,9 @@ Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calv
 <h3>Preview:</h3>
 
 <img width="2559" height="1439" alt="Screenshot 2025-08-19 174244" src="https://github.com/user-attachments/assets/de9037c7-3f67-4efb-bf2a-1886e52353ef" />
-<img width="719" height="548" alt="Screenshot 2025-08-19 174319" src="https://github.com/user-attachments/assets/38b7cd6f-9b7a-4990-a1f2-1d5224e6e799" />
-<img width="718" height="551" alt="Screenshot 2025-08-19 174303" src="https://github.com/user-attachments/assets/74bd84d6-2bae-47d6-b5fd-e676b6ea0b86" />
-<img width="720" height="549" alt="Screenshot 2025-08-19 174328" src="https://github.com/user-attachments/assets/86a70207-6550-4b2e-845e-092d3524d965" />
+<img width="720" height="548" alt="Screenshot 2025-08-19 215835" src="https://github.com/user-attachments/assets/396fd552-1a5e-4e21-ae30-7b7a18f13586" />
+<img width="717" height="550" alt="Screenshot 2025-08-19 215931" src="https://github.com/user-attachments/assets/6c68b7d6-f0d2-4506-a40d-daeb55bb652d" />
+<img width="719" height="548" alt="Screenshot 2025-08-19 215941" src="https://github.com/user-attachments/assets/7b55cc9a-5b81-41d3-9baa-2994767c0a4f" />
+
 
 [RCS](https://imgur.com/a/3gHq6mT)

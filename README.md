@@ -39,7 +39,7 @@ Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calv
 
 <img width="2559" height="1439" alt="Screenshot 2025-08-19 174244" src="https://github.com/user-attachments/assets/de9037c7-3f67-4efb-bf2a-1886e52353ef" />
 <img width="720" height="548" alt="Screenshot 2025-08-19 215835" src="https://github.com/user-attachments/assets/396fd552-1a5e-4e21-ae30-7b7a18f13586" />
-<img width="717" height="550" alt="Screenshot 2025-08-19 215931" src="https://github.com/user-attachments/assets/6c68b7d6-f0d2-4506-a40d-daeb55bb652d" />
+<img width="718" height="553" alt="Screenshot 2025-08-19 220246" src="https://github.com/user-attachments/assets/32ba1eea-a61f-44e3-b86b-6f4cf6495296" />
 <img width="719" height="548" alt="Screenshot 2025-08-19 215941" src="https://github.com/user-attachments/assets/7b55cc9a-5b81-41d3-9baa-2994767c0a4f" />
 
 

@@ -20,7 +20,7 @@
 <li>As long as the overlay fps is anywere around 60 fps ur fine, but higher ingame fps = smoother ESP</li> <br>
 I will share the source code (of the cheat only) in the near future
 
-<h3>Recent additions / Fixes:</h3>
+<h3>Recent Additions / Fixes:</h3>
 <li>Fixed for latest game build</li>
 <li>Added Autostop</li>
 

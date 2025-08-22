@@ -37,10 +37,10 @@ Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calv
 
 <h3>Preview:</h3>
 
-<img width="2559" height="1439" alt="Screenshot 2025-08-19 174244" src="https://github.com/user-attachments/assets/de9037c7-3f67-4efb-bf2a-1886e52353ef" />
-<img width="721" height="556" alt="Screenshot 2025-08-22 172022" src="https://github.com/user-attachments/assets/052c4d65-9711-4179-8dbf-795bbbf01182" />
-<img width="715" height="552" alt="Screenshot 2025-08-22 172044" src="https://github.com/user-attachments/assets/bf839b7e-5fc1-4bba-950f-e529406db4c0" />
-<img width="719" height="548" alt="Screenshot 2025-08-19 215941" src="https://github.com/user-attachments/assets/7b55cc9a-5b81-41d3-9baa-2994767c0a4f" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/de78cc44-9284-4bc6-bded-3df6ee6aa956" />
+<img width="717" height="552" alt="Screenshot 2025-08-22 180305" src="https://github.com/user-attachments/assets/37356f54-0010-494d-9f80-97fecb58f4ff" />
+<img width="718" height="554" alt="Screenshot 2025-08-22 180321" src="https://github.com/user-attachments/assets/95c3ccc1-d7e7-442d-88fa-cc71e14f416b" />
+<img width="715" height="551" alt="Screenshot 2025-08-22 180328" src="https://github.com/user-attachments/assets/9726d99c-505d-43a9-ab44-0236231dcfe8" />
 
 
 [![RCS Preview](https://img.youtube.com/vi/705Bq6u1CuA/maxresdefault.jpg)](https://youtu.be/705Bq6u1CuA)

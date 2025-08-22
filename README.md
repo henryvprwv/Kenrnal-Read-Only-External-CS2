@@ -37,6 +37,8 @@ Thanks to [cazz for driver](https://www.patreon.com/c/cazzwastaken/posts), [Calv
 
 <h3>Preview:</h3>
 
+[![Recoil Control](https://img.youtube.com/vi/fimpArlnI9k/maxresdefault.jpg)](https://youtu.be/fimpArlnI9k)
+
 <img width="2559" height="1439" alt="Screenshot 2025-08-19 174244" src="https://github.com/user-attachments/assets/de9037c7-3f67-4efb-bf2a-1886e52353ef" />
 <img width="721" height="556" alt="Screenshot 2025-08-22 172022" src="https://github.com/user-attachments/assets/052c4d65-9711-4179-8dbf-795bbbf01182" />
 <img width="715" height="552" alt="Screenshot 2025-08-22 172044" src="https://github.com/user-attachments/assets/bf839b7e-5fc1-4bba-950f-e529406db4c0" />

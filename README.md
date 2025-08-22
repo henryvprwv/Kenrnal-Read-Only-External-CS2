@@ -10,7 +10,7 @@
 <li>Run PhysExtractor.exe, select .tri as file format and move the maps folder to the main dir</li>
 <li>Ingame go to the misc tab and choose a map</li>
 
-<h3>Tipps:</h3>
+<h3>Tips:</h3>
 <li>U can adjust the strength of the rcs if its not perfect from default</li>
 <ul>
   <li>Turn on follow recoil ingame, the recoil crosshair in the cheat and change the strength untill they overlap</li>

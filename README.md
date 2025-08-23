@@ -2,7 +2,7 @@
 
 <h3>Usage:</h3>
 
-<li>Load km.sys with kdmapper and run um.exe when ingame (or just use the launcher)</li>
+<li>The cheat (um.exe) does everything for you u dont even need the launcher anymore</li>
 <li>U need to have Nvidia Overlay running</li>
 
 <h3>VPK Pharsing:</h3>

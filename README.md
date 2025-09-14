@@ -3,7 +3,6 @@
 <h3>Usage:</h3>
 
 <li>The cheat (um.exe) does everything for you u dont even need the launcher anymore</li>
-<li>U need to have Nvidia Overlay running</li>
 
 <h3>VPK Pharsing:</h3>
 <li>Download the parser <a href="https://www.unknowncheats.me/forum/counter-strike-2-a/707998-cs2-vmdl_c-parser.html">here</a></li>
@@ -23,8 +22,7 @@ If u have any questions, bugs or whatever add me on dc its in my profile
 
 <h3>Recent Additions / Fixes:</h3>
 <li>Fixed for latest game build</li>
-<li>Fixed + Improved Triggerbot</li>
-<li>Added Autostop</li>
+<li>Now uses a external overlay that works on all GPUs</li>
 
 <h3>Potential Additions:</h3>
 <li>Spectator List</li>

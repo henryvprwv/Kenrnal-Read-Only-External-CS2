@@ -28,7 +28,6 @@ If u have any questions, bugs or whatever add me on dc its in my profile
 <li>Spectator List</li>
 <li>Bomb Info</li>
 <li>Icons</li>
-<li>Other Overlay Options</li>
 <li>Spectator and bomb are just not added yet cuz the esp is too laggy if i add that ill try my best to find a fix</li>
 
 <h3>Credits:</h3>
